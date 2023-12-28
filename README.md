@@ -1,17 +1,20 @@
 # Learn GitHub
  
+# 再次更新
+ 
+ 
+ # 记录学习使用github
 
- 记录学习使用github
-
- 常用命令 clone  pull push add 
+ # 常用命令 clone  pull push add 
 
 
-
- clone   将GitHub server 库里的 copy to local的库
+ 
+ # clone   将GitHub server 库里的 copy to local的库
 
 
 # init
 
+    git init
 
 # SSH Key create
     ssh-keygen -t rsa -C "your@email"
