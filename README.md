@@ -31,9 +31,9 @@
 
 
 # commit code to github server
- git add file 
- git commit -m "注释写这里" 提交 
- git push origin main 同步
+    git add file 
+    git commit -m "注释写这里" 提交 
+     git push origin main 同步
 
 
 # create repositories
